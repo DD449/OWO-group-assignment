@@ -3539,7 +3539,7 @@ input, select, textarea {
 			filter: blur(0);
 			opacity: 1;
 			font-family: Raleway, Helvetica, sans-serif;
-			font-size: 1em;
+			font-size: 1.5em;
 			font-weight: 200;
 			letter-spacing: 0.1em;
 			line-height: 2;
@@ -3551,7 +3551,7 @@ input, select, textarea {
 			#banner {
 				padding: 7em 0 8.25em 0 ;
 				background-color: #347FC4;
-				background-image: linear-gradient(to top, rgba(52, 127, 196, 1), rgba(52, 127, 196, 1));
+				background-image: linear-gradient(to top, rgba(52, 127, 196, 1), rgba(52, 127, 196, 1)), url("../../images/bg.jpg");
 				background-size: auto, cover;
 				background-position: center, center;
 				margin-bottom: -6.5em;
